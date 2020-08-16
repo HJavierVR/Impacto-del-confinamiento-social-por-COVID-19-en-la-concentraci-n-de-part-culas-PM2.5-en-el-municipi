@@ -71,9 +71,13 @@ Los resultados de esta investigación subrayan la importancia de seguir cumplien
 
 Ya que, de acuerdo con un estudio realizado por Xiao Wu, et al., 2020, los resultados indican que la exposición a largo plazo a la contaminación atmosférica aumenta la vulnerabilidad a los resultados más graves de COVID-19. Se comprobó estadísticamente que un aumento de 1 𝜇g/m3 en la exposición a largo plazo a PM2.5 es asociado con un aumento del 8% en la tasa de mortalidad de COVID-19. Así como una mayor carga al sistema de salud con otras muertes y enfermedades relacionadas con el PM2.5, que desviarían recursos de los pacientes de COVID-19. 
 
+### Agradecimientos
+
+Agradecemos a Clubes de Ciencia por darnos la oportunidad de participar en el CdeCMx Challenge 2020 en donde conocimos a increíbles personas. Agradecemos en particular el apoyo por parte de los instructores Alma Carolina Castillo Trujillo y Jair Carrillo Ávila, que con su conocimiento y experiencia logramos sacar adelante este reto.   
+
 ### Bibliografías 
 
-aire.nl.gob.mx | Home. (2020). Retrieved 14 August 2020, from http://aire.nl.gob.mx/ 
+aire.nl.gob.mx  Home. (2020). Retrieved 14 August 2020, from http://aire.nl.gob.mx/ 
 
 Carrizales, D. (22 de abril, 2020). Incendios consumen 90 hectáreas forestales en Nuevo León. EL UNIVERSAL. Recuperado de https://www.eluniversal.com.mx/estados/incendios-consumen-90-hectareas-forestales-en-nuevo-leon 
 
@@ -107,6 +111,20 @@ Sistema Nacional de Información de la Calidad del Aire (SINAICA) - Instituto Na
 Wang, Y., Li, L, Chen, C., Huang, C., Huang, H., Feng, J., Cheng, P., 2014. Source apportionment of fine particulate matter during autumn haze episodes in Shanghai, China, J. Geophys. Res. Atmos. 199 (4), 1903-1914 
 
 Windyty, S. (2020). Windy as forecasted. Retrieved 16 August 2020, from https://www.windy.com/?19.459,-99.146,5 
+
+Vector de Personas creado por stories https://www.freepik.es/vectores/personas  
+
+Vector de Cartel creado por brgfx  https://www.freepik.es/vectores/cartel 
+
+Vector de Papel creado por macrovector https://www.freepik.es/vectores/papel 
+
+## Codigos utilizados en Colab
+
+https://colab.research.google.com/drive/1phfIoCwYG-Ejs2mXQ4l7amPAe8n2HuoK?usp=sharing
+
+https://colab.research.google.com/drive/1AsyMjGXXPR7ljmO6bC3O_yEj2681XW2K#scrollTo=vUaThMjDschx
+
+
 
 | Nombre | Descripción |
 |---|---------------------------------------------------------------------------------------------------------------------------------------------|
