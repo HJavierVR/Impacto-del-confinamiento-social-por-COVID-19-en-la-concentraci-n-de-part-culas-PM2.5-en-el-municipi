@@ -20,7 +20,7 @@ Uno de los resultados de que se haya disminuido el uso de medios de transporte e
 
 Los primeros casos de Covid-19 se registraron en la ciudad de Wuhan, China en diciembre del 2019 y posteriormente se propagó al resto del mundo. En Nuevo León, México, el día 18 de marzo del 2020, el ayuntamiento de San Pedro Garza García se declaraba en estado de emergencia debido a que al menos 12 de los 14 casos confirmados de COVID-19 en el estado, pertenecían a habitantes de dicho municipio. San Pedro Garza García fue uno de los primeros asentamientos en el país en presentar casos positivos de COVID-19, por lo cual se exhorto de manera inmediata al cese de cualquier evento que promoviera el contacto en multitudes, tanto de índole pública como de privada. El municipio de San Pedro Garza García con sus poco más de 126 mil habitantes, es considerado uno de los municipios más adinerados de Latinoamérica, por lo que se podría traducir a que su población realiza un mayor número de viajes al extranjero, explicando así que los primeros casos de COVID-19 hayan provenido de este lugar llegando a un número de 821 hasta el 8 de agosto del año en curso, de acuerdo con cifras obtenidas del portal “Todo sobre el Covid19” proporcionado por el Gobierno de México.  
 
-![FIG. 1 IZQ NUMERO DE CASOS DE COVID-19 RESISTRADOS POR DÍA. DER NUMERO DE CASOS ACUMULADOS POR DÍA DE COVID-19](FIGURA1.PNG)
+![FIG. 1 IZQ NUMERO DE CASOS DE COVID-19 RESISTRADOS POR DÍA. DER NUMERO DE CASOS ACUMULADOS POR DÍA DE COVID-19](FIGURA1.png)
 
 
 ### Resultados y discusión
