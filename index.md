@@ -25,13 +25,23 @@ Los primeros casos de Covid-19 se registraron en la ciudad de Wuhan, China en di
 
 ### Resultados y discusión
 
+![PROMEDIO DIARIO DE LA CONCENTRACIÓN DE PM2.5 DEL PRIMER SEMESTRE DEL 2020 EN SAN PEDRO GARZA GARCIA](FIGURA 2.png)
+
 Con la finalidad de conocer la cantidad promedio en la concentración de PM 2.5 del primer semestre del año, se recopilaron datos de la Estación de Monitoreo Ambiental más cercana al municipio de San Pedro G.G, que pertenece al Sistema Nacional de Información de la Calidad del Aire (SINAICA). Las lecturas mostraron altas y bajas concentraciones y de manera especial, en junio se registraron lecturas con concentraciones menores a 20 microgramos por metro cúbico. 
+
+![MOVILIDAD EN EL MUNICIPIO DE SAN PEDRO G. EN LA CONTINGENCIA CON RESPECTO A FEBRERO 2020](FIGURA 3.png)
 
 Para conocer la movilidad en la ciudad de San Pedro Garza García, se recurrió a la plataforma Maps de Apple la cual brinda datos de la tendencia en cuanto a movilidad de varias ciudades del mundo. 
 
  En la Figura 3 se muestra la movilidad de los habitantes de San Pedro Garza García desde el mes de marzo a principios de agosto del 2020. Se tomó como referencia el mes de febrero del mismo año. La movilidad disminuye notablemente durante el mes de abril, hasta cerca de un 60% en comparación al mes de referencia. Para los siguientes meses la movilidad fue baja, entre un 20 y 60 % menos que la que se registró en febrero. 
  
+ ![PROMEDIO DE CONCENTRACIÓN DE PARTICULAS PM2.5 Y MOVILIAD DE LA CIUDAD DE SAN PEDRO G. 2020](FIGURA 4.png)
+ 
  Ya que una de las principales fuentes de emisión de PM 2.5 son los automóviles que utilizan combustibles fósiles, y, debido a las medidas tomadas por el gobierno de Nuevo León, específicamente para el municipio de San Pedro Garza García, se esperaba observar una disminución en la cantidad de concentración de PM 2.5 a la par del momento en el que inició el periodo de cuarentena y durante el mismo. Se observó que la movilidad respecto al mes de febrero (antes del inicio de la cuarentena) disminuyó en los meses posteriores, alcanzando uno de sus valores mínimos a mediados de abril, a pesar de esto, los valores en la concentración de PM 2.5 no disminuyeron en gran medida respecto a los meses previos a la cuarentena; aún en el período de contingencia, se observaron cantidades altas de material particulado en el aire de San Pedro, éstas se visualizan en la Figura 4 por los picos altos en abril, mayo y junio, los cuales pueden explicarse por fenómenos atípicos como una serie de incendios que sucedieron en la Sierra de Santiago, en el municipio de Galeana, en Zaragoza y en Mier y Noriega localidades tanto cercanas como alejadas del municipio de San Pedro G. G. (Carrizales, 2020 y Garza, 2020), a pesar de que algunos incendios ocurrieron en áreas remotas, los humos pueden ser arrastrados por las corrientes de viento y  recorrer grandes distancias y en distintas direcciones, por lo observado en la trayectoria predominante del viento en la página de Windy.org es probable que hayan llegado a San Pedro G.G. 
+ 
+ ![TRAYECTORIA DE LOS VIENTOS HACIA SAN PEDRO GARZA](VIENTOS-SAN-PEDRO.gif)
+ 
+ ![COMPARACION DE LAS CONCENTRACIONES DE PM2.5DE 2019 Y 2020](FIGURA 5.png)
  
  En la Figura___  comparan las concentraciones promedio de PM 2.5 en el municipio de San Pedro Garza García del primer semestre de los años 2019 y 2020. En la gráfica se puede observar cómo los valores de PM 2.5 del 2020 se mantienen por encima de los del año anterior, sin embargo, a finales del mes de abril se aprecia un pico considerable de aumento de la concentración de PM2.5, el cual se puede atribuir a los incendios mencionados anteriormente, una vez pasados los incendios, a inicios de mayo se observa cómo hay un decremento en la concentración de PM2.5 con respecto al mismo periodo del año pasado, los cuales también coinciden con las fechas en las que se registró la menor movilidad del semestre, es decir una reducción en la movilidad de hasta 60% en comparación al mes de febrero del 2020. 
  
