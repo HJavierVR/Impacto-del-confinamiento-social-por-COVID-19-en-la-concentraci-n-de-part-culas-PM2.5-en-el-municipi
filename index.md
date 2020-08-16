@@ -61,11 +61,11 @@ Los resultados de esta investigación subrayan la importancia de seguir cumplien
 
 Ya que, de acuerdo con un estudio realizado por Xiao Wu, et al., 2020, los resultados indican que la exposición a largo plazo a la contaminación atmosférica aumenta la vulnerabilidad a los resultados más graves de COVID-19. Se comprobó estadísticamente que un aumento de 1 𝜇g/m3 en la exposición a largo plazo a PM2.5 es asociado con un aumento del 8% en la tasa de mortalidad de COVID-19. Así como una mayor carga al sistema de salud con otras muertes y enfermedades relacionadas con el PM2.5, que desviarían recursos de los pacientes de COVID-19. 
 
-|![JAVI](JAVIER.JPG)| Hector Javier Vargas Reyes: Estudiante de nanotecnología y química en la Universidad De Las Américas Puebla                                 |
+| Nombre | Descripción |
 |---|---------------------------------------------------------------------------------------------------------------------------------------------|
+|![JAVI](JAVIER.JPG)| |Hector Javier Vargas Reyes: Estudiante de nanotecnología y química en la Universidad De Las Américas Puebla    |
 |![ELIA](ELIA.jpeg)| Elia Huerta Duran: Estudiante de Ingeniería Ambiental Benemérita Universidad Autónoma de Puebla                                             |
 |![DIEGO](DIEGO.jpeg)| Diego Estrada Ortiz Estudiante de Ingeniería en Sistemas Ambientales Escuela Nacional de Ciencias Biológicas Instituto Politécnico Nacional |
-
 
 
 
