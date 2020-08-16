@@ -63,7 +63,7 @@ Ya que, de acuerdo con un estudio realizado por Xiao Wu, et al., 2020, los resul
 
 | Nombre | Descripción |
 |---|---------------------------------------------------------------------------------------------------------------------------------------------|
-|![JAVI](JAVIER.JPG)| |Hector Javier Vargas Reyes: Estudiante de nanotecnología y química en la Universidad De Las Américas Puebla    |
+|![JAVI](JAVIER.JPG)| Hector Javier Vargas Reyes: Estudiante de nanotecnología y química en la Universidad De Las Américas Puebla    |
 |![ELIA](ELIA.jpeg)| Elia Huerta Duran: Estudiante de Ingeniería Ambiental Benemérita Universidad Autónoma de Puebla                                             |
 |![DIEGO](DIEGO.jpeg)| Diego Estrada Ortiz Estudiante de Ingeniería en Sistemas Ambientales Escuela Nacional de Ciencias Biológicas Instituto Politécnico Nacional |
 
