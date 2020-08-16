@@ -1,6 +1,6 @@
 # Impacto del confinamiento social por COVID-19 en la concentración de partículas PM2.5 en el municipio de San Pedro Garza García, Nuevo León, durante el primer semestre del 2020 
 ## Proyecto final del Challenge de Clubes de Ciencia México 2020
-###### Elia Huerta Duran, Hector Javier Vargas Reyes y Diego Estrada Ortiz
+###### Elia Huerta Duran, Hector Javier Vargas Reyes y Diego Estrada Ortiz ID: A-08
 
 
 ![CdeCMx](Copia de Copia de Logo-Clubes-Color.png)
@@ -118,17 +118,21 @@ Vector de Cartel creado por brgfx  https://www.freepik.es/vectores/cartel
 
 Vector de Papel creado por macrovector https://www.freepik.es/vectores/papel 
 
+Vector de Enfermos creado por starline https://www.freepik.es/vectores/enfermos 
+
 ## Codigos utilizados en Colab
 
 https://colab.research.google.com/drive/1phfIoCwYG-Ejs2mXQ4l7amPAe8n2HuoK?usp=sharing
 
 https://colab.research.google.com/drive/1AsyMjGXXPR7ljmO6bC3O_yEj2681XW2K#scrollTo=vUaThMjDschx
 
+https://colab.research.google.com/drive/1mcBl9Q0CiHH6BzmHVgodwQrAOHf8rhch#scrollTo=M-G4Y-GQoGbj
+
 
 
 | Nombre | Descripción |
 |---|---------------------------------------------------------------------------------------------------------------------------------------------|
-|![JAVI](JAVIER.JPG)| Hector Javier Vargas Reyes: Estudiante de nanotecnología y química en la Universidad De Las Américas Puebla (UDLAP)   |
+|![JAVI](JAVIER.JPG)| Hector Javier Vargas Reyes: Estudiante de Nanotecnología y Química en la Universidad De Las Américas Puebla (UDLAP)   |
 |![ELIA](ELIA.jpeg)| Elia Huerta Duran: Estudiante de Ingeniería Ambiental Benemérita Universidad Autónoma de Puebla    (BUAP)                               |
 |![DIEGO](DIEGO.jpeg)| Diego Estrada Ortiz Estudiante de Ingeniería en Sistemas Ambientales Escuela Nacional de Ciencias Biológicas Instituto Politécnico Nacional (IPN) |
 
