@@ -3,6 +3,8 @@
 ###### Elia Huerta Duran, Hector Javier Vargas Reyes y Diego Estrada Ortiz
 
 
+![CdeCMx](Copia de Copia de Logo-Clubes-Color.png)
+
 ### Crisis sanitaria actual y contaminación del aire 
 
 Durante los últimos meses el mundo se ha enfrentado a una severa crisis sanitaria debido al nuevo virus Sars-Cov-2 causante de la enfermedad Covid-19, la cual daña principalmente las vías respiratorias con síntomas parecidos a los de neumonía, además de ser altamente contagiosa. Se han contabilizado más de 21 millones de casos y ya sobrepasan las 700 mil muertes causadas por esta enfermedad (WorldOMeter, 2020). Con el propósito de detener los contagios se han aplicado medidas drásticas de confinamiento domiciliario voluntario, reduciendo notoriamente las actividades sociales y económicas. Al disminuir la movilidad en las ciudades, se hizo notar una baja en el uso de los diversos medios de transporte, los cuales representan una de las principales fuentes de contaminación atmosférica.
